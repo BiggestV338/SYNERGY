@@ -13,3 +13,12 @@ print(f'Это {type_of_pet} по кличке "{nickname}". Возраст {age
 
 #Задание 2.
 
+type_homo_1 = input('Введите первый этап развития человека:')
+type_homo_2 = input('Введите второй этап развития человека:')
+type_homo_3 = input('Введите третий этап развития человека:')
+type_homo_4 = input('Введите четвертый этап развития человека:')
+type_homo_5 = input('Введите пятый этап развития человека:')
+type_homo_6 = input('Введите шестой этап развития человека:')
+
+print( type_homo_1, type_homo_2, type_homo_3, type_homo_4, type_homo_5, type_homo_6, sep=' => ' )
+#end
